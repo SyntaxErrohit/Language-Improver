@@ -7,3 +7,10 @@ For now it is in python only but soon I will make it into an app and website.
 
 # Screenshots
 
+![Screenshot](https://github.com/Rohit-Elamurugan/Language-Improver/blob/main/screenshot.png)
+
+# Future updates
+
+For now it accepts only 1 string. In future it will accept multiple strings.
+
+Soon it will change from commandline to GUI
